@@ -1,1 +1,1 @@
-tutorial from https://github.com/yurishkuro/opentracing-tutorial/tree/master/go/lesson01
+[Open tracing](https://opentracing.io/) tutorial
